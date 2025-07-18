@@ -35,5 +35,9 @@
 ## 📊 GitHub Stats _(optional)_
 ![Himanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=1262-create&show_icons=true&theme=default)
 
+## 📚 Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=default)
+
+
 ---
 
