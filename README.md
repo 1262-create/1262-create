@@ -33,7 +33,7 @@
 ---
 
 ## 📊 GitHub Stats _(optional)_
-![Himanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=default)
+![Himanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=1262-create&show_icons=true&theme=default)
 
 ---
 
