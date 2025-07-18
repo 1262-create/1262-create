@@ -33,8 +33,7 @@
 
 ---
 
-## 📊 GitHub Stats _(optional)_
-![Himanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=1262-create&show_icons=true&theme=default)
+
 
 ## 🛠️ Languages & Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -43,6 +42,8 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-4B0082?style=flat)
+
 
 
 ## 📚 Top Languages
