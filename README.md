@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👋 Hey there, I'm Himanshu!
 
-<!--
-**1262-create/1262-create** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 A passionate **Data Analyst** and Aspiring **Data Scientist**
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+- 💻 Skilled in **Python**, **SQL**, **Web Scraping**, **Machine Learning**, **Hypothesis Testing**, and **Data Visualization**
+- 📊 Built projects like **Real Estate Price Predictor**, **WhatsApp Chat Analyzer**, and **Power BI Dashboards**
+- 🤖 Focused on applying **ML models** and **statistical techniques** to solve real-world problems
+
+---
+
+## 🔧 Tools & Tech
+`Python` `SQL` `Pandas` `NumPy` `Seaborn` `Matplotlib` `Power BI` `Excel`  
+`Scikit-learn` `Hypothesis Testing`  `Streamlit` `BeautifulSoup` `AWS`
+
+---
+
+## 📈 Projects
+- 💸 **Real Estate Price Predictor** – ML + Streamlit web app  
+- 💬 **WhatsApp Chat Analyzer** – Visualizes chat stats, heatmaps, emojis, and user insights  
+- 📊 **Salary Dashboard** – Power BI insights on global data roles
+
+---
+
+## 📬 Find Me Here
+- 🔗 [YouTube – Hello Himanshu](https://youtube.com/@HelloHimanshu)
+- 💼 [LinkedIn](https://linkedin.com/in/your-link)
+- 📫 Email: `himanshu.m.singh132@gmail.com`
+
+---
+
+## 📊 GitHub Stats _(optional)_
+![Himanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=default)
+
+---
+
