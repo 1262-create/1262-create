@@ -26,8 +26,8 @@
 ---
 
 ## 📬 Find Me Here
-- 🔗 [YouTube – Hello Himanshu](https://youtube.com/@HelloHimanshu)
-- 💼 [LinkedIn](https://linkedin.com/in/your-link)
+- 🔗 [YouTube –https://youtube.com/@hellohimanshuiiitnagpur8421?si=fveeSWlePIVeDwCg)
+- 💼 [LinkedIn](https://www.linkedin.com/in/himanshu-singh-260a43290/)
 - 📫 Email: `himanshu.m.singh132@gmail.com`
   
 
