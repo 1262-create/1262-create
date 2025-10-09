@@ -7,7 +7,7 @@
 
 ## 🚀 About Me
 - 💻 Skilled in **Python**, **SQL**, **Web Scraping**, **Machine Learning**, **Hypothesis Testing**, and **Data Visualization**
-- 📊 Built projects like **Real Estate Price Predictor**, **WhatsApp Chat Analyzer**, and **Power BI Dashboards**
+- 📊 Built projects like **Real Estate Price Predictor**, **WhatsApp Chat Analyzer**, and **nanoGPT**
 - 🤖 Focused on applying **ML models** and **statistical techniques** to solve real-world problems
 
 ---
