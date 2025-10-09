@@ -21,7 +21,7 @@
 ## 📈 Projects
 - 💸 **Real Estate Price Predictor** – ML + Streamlit web app  
 - 💬 **WhatsApp Chat Analyzer** – Visualizes chat stats, heatmaps, emojis, and user insights  
-- 📊 **Salary Dashboard** – Power BI insights on global data roles
+- 📊 **NanoGPT** – Generate text on shakespeare writting
 
 ---
 
