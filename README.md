@@ -14,7 +14,7 @@
 
 ## 🔧 Tools & Tech
 `Python` `SQL` `Pandas` `NumPy` `Seaborn` `Matplotlib` `Power BI` `Excel`  
-`Scikit-learn` `Hypothesis Testing`  `Streamlit` `BeautifulSoup` `AWS`
+`Scikit-learn` `Hypothesis Testing`  `Streamlit` `BeautifulSoup` `AWS` `LLM` `NLP` `Tansformers` `tensorflow` `pytorch`
 
 ---
 
